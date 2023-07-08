@@ -1,6 +1,6 @@
 ![](https:https://github.com/UppedX/UppedX/blob/main/README.md//komarev.com/ghpvc/?username=uppedx&color=006bed)
 
-<h3>📝&nbsp;About Me 🇺🇸</h3>
+<h3>📝&nbsp;About Me</h3>
 
 I'm a young male currently living in Canada. I've been "studying" a couple diffrent programing languages, mainly Lua and Luau. When I was ~11-12 I did small projects in discord.py. At the same time I was starting to work in Roblox Studio, developing games that would end up getting millions of visits. I hope to soon start learning C# so I can begin developing in Unity.
 
