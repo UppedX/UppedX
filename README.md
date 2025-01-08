@@ -26,4 +26,4 @@ Still Learning | Interested
 
 Code Editors | IDEs
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=007ACC)
